@@ -1,6 +1,8 @@
-# vitepress-template
+# vibe-coding-guide
 
-My VitePress Template
+AI 时代的 Vibe Coding 实践
+
+在线阅读：[https://lyh-docs.github.io/vibe-coding-guide](https://lyh-docs.github.io/vibe-coding-guide)
 
 ## License
 

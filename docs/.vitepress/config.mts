@@ -31,7 +31,7 @@ export default defineConfig({
       {
         text: "AI 时代的 Vibe Coding 实践",
         items: [
-          { text: "序言", link: "/00" },
+          { text: "序言：什么是 Vibe Coding", link: "/00" },
           { text: "Vibe Coding 到底改变了什么", link: "/01" },
           {
             text: "为什么很多人用了 AI，却没有进入真正的 Vibe Coding",
