@@ -2,16 +2,15 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 hero:
-  name: "My VitePress Template"
-  text: "Power by VitePress"
+  name: "Vibe Coding Guide"
   tagline: Made with ❤ by lyh-docs
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 开始阅读
+      link: /00
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: GitHub
+      link: https://github.com/lyh-docs/vibe-coding-guide
   image:
     src: /logo.png
     alt: logo
