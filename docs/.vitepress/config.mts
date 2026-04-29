@@ -10,7 +10,12 @@ export default defineConfig({
   metaChunk: true,
   // https://vitepress.dev/zh/guide/deploy#setting-a-public-base-path
   base: "/vibe-coding-guide/",
-  head: [["link", { rel: "icon", type: "image/png", href: "/logo.png" }]],
+  head: [
+    [
+      "link",
+      { rel: "icon", type: "image/png", href: "/vibe-coding-guide/logo.png" },
+    ],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: { src: "/logo.png" },
